@@ -1,5 +1,6 @@
 # Automatic-wireless-signal-segmentation-algorithm-for-joint-activity-recognition-and-localization
 Dataset: https://drive.google.com/drive/folders/1KbFJtdYA6j982F4Ib6EBjZygRpMfrK13?usp=sharing
+
 Chuẩn bị: Bố trí thiết bị để tiến hành thu dataset
 ![F12](https://github.com/F4tt/Automatic-wireless-signal-segmentation-algorithm-for-joint-activity-recognition-and-localization/assets/122816713/da5ecda3-95a5-457f-ac39-9839b783480e)
 Hệ thống được mô tả như bên dưới:
