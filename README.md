@@ -1,4 +1,4 @@
-# Automatic-wireless-signal-segmentation-algorithm-for-joint-activity-recognition-and-localization
+# WiARL-UIT: A Public Dataset  for Simultaneous Human Activity Recognition and Localization using WiFi Signals
 Dataset: https://drive.google.com/drive/folders/1KbFJtdYA6j982F4Ib6EBjZygRpMfrK13?usp=sharing
 
 Chuẩn bị: Bố trí thiết bị để tiến hành thu dataset
@@ -27,7 +27,8 @@ Kết quả thu được:
 ![Ảnh chụp màn hình 2024-01-19 180324](https://github.com/F4tt/Automatic-wireless-signal-segmentation-algorithm-for-joint-activity-recognition-and-localization/assets/122816713/f32f9f3a-b402-495e-95b5-5d564d461665)
 ![Curves](https://github.com/F4tt/Automatic-wireless-signal-segmentation-algorithm-for-joint-activity-recognition-and-localization/assets/122816713/1964212c-779f-4fbd-b6c5-358a4de1696f)
 
-Xem chi tiết: [Automatic_Wireless_Signal_Segmentation_Algorithm_For_Joint_Activity_Recognition_and_Localization.pdf](https://github.com/F4tt/Automatic-wireless-signal-segmentation-algorithm-for-joint-activity-recognition-and-localization/files/14396487/Automatic_Wireless_Signal_Segmentation_Algorithm_For_Joint_Activity_Recognition_and_Localization.pdf)
+Xem chi tiết:[WiARL_UIT__A_Public_Dataset__for_Simultaneous_Human_Activity_Recognition_and_Localization_using_WiFi_Signals.pdf](https://github.com/F4tt/Automatic-wireless-signal-segmentation-algorithm-for-joint-activity-recognition-and-localization/files/14745111/WiARL_UIT__A_Public_Dataset__for_Simultaneous_Human_Activity_Recognition_and_Localization_using_WiFi_Signals.pdf)
+ (https://github.com/F4tt/Automatic-wireless-signal-segmentation-algorithm-for-joint-activity-recognition-and-localization/files/14396487/Automatic_Wireless_Signal_Segmentation_Algorithm_For_Joint_Activity_Recognition_and_Localization.pdf)
 
 
 
