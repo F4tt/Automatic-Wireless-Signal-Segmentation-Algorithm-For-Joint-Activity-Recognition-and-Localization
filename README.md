@@ -1,6 +1,9 @@
 # WiARL-UIT: A Public Dataset  for Simultaneous Human Activity Recognition and Localization using WiFi Signals
 Dataset: https://drive.google.com/drive/folders/1KbFJtdYA6j982F4Ib6EBjZygRpMfrK13?usp=sharing
 
+![poster paper](https://github.com/F4tt/WiARL-UIT-A-Public-Dataset-for-Simultaneous-Human-Activity-Recognition-and-Localization-using-WiFi/assets/122816713/af867032-0f9d-4131-a669-4f4b6748d2f5)
+
+
 Chuẩn bị: Bố trí thiết bị để tiến hành thu dataset
 ![F12](https://github.com/F4tt/Automatic-wireless-signal-segmentation-algorithm-for-joint-activity-recognition-and-localization/assets/122816713/da5ecda3-95a5-457f-ac39-9839b783480e)
 Hệ thống được mô tả như bên dưới:
